@@ -5,7 +5,7 @@ A conversion tool to convert a corpora tagged for chunks inline to IOB format (c
 General description
 -------------------
 
-This script was originally created to convert the BNC1000 copus by Nicholson and Baldwin [1] 
+This script was originally created to convert the BNC1000 corpus by Nicholson and Baldwin [1] 
 to IOB format with respect to noun compounds (and multiword named entities).
 
 The input of the script is a text file in which a single sentence from the BNC1000 takes 3 lines:
