@@ -15,9 +15,9 @@ public class FindCN {
 	public static void main(String[] args) {
 				
 		try{
-			FileInputStream fis = new FileInputStream("input_file");
-			BufferedReader raw = new BufferedReader (new InputStreamReader (fis,"UTF-8"));
-			FileOutputStream out1 = new FileOutputStream("output_file");
+		    FileInputStream fis = new FileInputStream("input_file");
+		    BufferedReader raw = new BufferedReader (new InputStreamReader (fis,"UTF-8"));
+		    FileOutputStream out1 = new FileOutputStream("output_file");
 		    OutputStreamWriter tagfile = new OutputStreamWriter(out1,"UTF8");
 		    
 		    String s = "";
