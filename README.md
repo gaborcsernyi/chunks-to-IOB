@@ -66,10 +66,10 @@ Example for input of the script:
 Example for output of the script:
 
 	Things		NNS	O
-	are		VBP	O
-	interesting		VBG	O
-	on		IN	O
-	the		DT	O
+	are			VBP	O
+	interesting	VBG	O
+	on			IN	O
+	the			DT	O
 	slot		NN	B-NP
 	front		NN	I-NP
 	,		,	O
