@@ -72,9 +72,9 @@ Example for output of the script:
 	the			DT	O
 	slot		NN	B-NP
 	front		NN	I-NP
-	,		,	O
-	too		RB	O
-	.		.	O
+	,			,	O
+	too			RB	O
+	.			.	O
 
 ---------------------------------------------------------------------------------------------------------
 
