@@ -81,5 +81,5 @@ Example for output of the script:
 References
 ----------
 
-[1] Jeremy Nicholson and Timothy Baldwin. 2008. Interpreting Compound Nominalisations. In LREC 2008 
-Workshop: Towards a Shared Task for Multiword Expressions (MWE 2008), pages 43–45, Marrakech, Morocco.
+[1] Nicholson, J., Baldwin, T. 2008. Interpreting Compound Nominalisations. In Proceedings of LREC 2008 Workshop: 
+Towards a Shared Task for Multiword Expressions (MWE 2008). Marrakech, Morocco, pp. 43-45. 
